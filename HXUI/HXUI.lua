@@ -160,6 +160,7 @@ T{
 	partyListTheme = 0, 
 	partyListBgOpacity = 200;
 	showPartyListBookends = true,
+	showPartyListDistance = false,
 	partyListCursor = 'GreyArrow.png',
 	partyListBackground = 'BlueGradient.png',
 	partyListEntrySpacing = 0,
